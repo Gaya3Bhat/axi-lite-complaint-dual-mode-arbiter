@@ -206,6 +206,6 @@ This project is provided as-is for educational and portfolio purposes.
 
 ---
 
-**Author:** [Your Name]  
-**Last Updated:** [Date]  
+**Author:** Gayathri R Bhat 
+**Last Updated:** 07-08-2026  
 **Status:** Complete ✓
