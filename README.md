@@ -1,4 +1,4 @@
-# AXI Arbiter: Design and Verification
+# Design, Verification, and FPGA Implementation of a Configurable Dual-Mode AXI-Lite Arbiter
 
 A comprehensive RTL design and verification project for a configurable AXI arbiter with multiple arbitration schemes. This project demonstrates advanced SystemVerilog design, testbench development, and verification methodologies.
 
