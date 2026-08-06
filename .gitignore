@@ -1,0 +1,131 @@
+# Simulation Files
+*.wdb
+*.vcd
+*.vvp
+*.vvp.log
+*.lxt
+*.vzt
+*.evcd
+
+# Simulation Logs & Outputs
+*.log
+*.out
+*.rpt
+sim_*.txt
+transcript
+
+# ModelSim/Questa Files
+work/
+*.wdb
+*.vstf
+*.ini
+*.shm
+*.psco
+*.info
+
+# VCS/Synopsys Files
+work/
+csrc/
+simv
+simv.daidir/
+DVEfiles/
+*.dvew
+ucli.key
+
+# Xcelium/Cadence Files
+xcelium.d/
+xcelium.key
+xcelium.history
+xmsim.key
+xrun.key
+xrun.log
+
+# Vivado Files
+*.jou
+*.log
+*.pb
+.Xil/
+*.runs/
+*.sim/
+
+# ISE Files
+*.ise
+_xmsgs/
+xlnx_auto_0_xdb/
+iseconfig/
+
+# Synplify Pro Files
+*.prj
+*.sby
+
+# General Design Files
+*.netlist
+*.sdc
+*.xdc~
+
+# IDE Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Python & Build
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.eggs/
+*.egg-info/
+build/
+dist/
+
+# Compiler/Lint Output
+*.o
+*.so
+*.a
+*.lib
+*.dll
+*.exe
+
+# Backup Files
+*.bak
+*.backup
+*.old
+*~
+*.~[0-9]*
+
+# OS Files
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+
+# Environment Files
+.env
+.venv
+venv/
+ENV/
+
+# Coverage Files
+coverage.txt
+coverage/
+*.ucdb
+*.ucdb~
+
+# Formal Verification
+.hier
+formality/
+formality.log
+
+# Version Control
+.git/
+.gitattributes
+
+# Documentation Build
+docs/_build/
+*.pdf~
