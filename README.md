@@ -14,8 +14,8 @@ The arbiter is designed for multi-master AXI systems and includes an AXI Lite wr
 
 | Stage | Tool | Status |
 |-------|------|--------|
-| RTL Design + Directed Testbenches | **Vivado** | Ran full project (design + directed testbenches) |
-| UVM Testbench | **EDA Playground — Xcelium 25.03** | Ran all 4 UVM tests, results below |
+| RTL Design + Directed Testbenches | **Xilinx Vivado** | Ran full project (design + directed testbenches) |
+| UVM Testbench | **EDA Playground — Cadence Xcelium 25.03** | Ran all 4 UVM tests, results below |
 
 > **Note:** The RTL and directed testbenches (`tb_*.sv` files) were executed in Vivado only. They have not been verified on ModelSim, VCS, or other simulators, even though the SystemVerilog is written to standard syntax that should be portable. The UVM testbench was run separately on EDA Playground using Xcelium 25.03. Compatibility with other tools is not claimed.
 
