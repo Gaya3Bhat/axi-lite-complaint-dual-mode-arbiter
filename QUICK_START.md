@@ -53,7 +53,7 @@ Neither track has been confirmed on other simulators (ModelSim, VCS, standalone 
 
 ### Prerequisites
 - An [EDA Playground](https://www.edaplayground.com/) account (free)
-- Simulator selection: **Xcelium 25.03** (or compatible), with UVM library enabled (e.g., UVM 1.2)
+- Simulator selection: **Cadence Xcelium 25.03** (or compatible), with UVM library enabled (e.g., UVM 1.2)
 
 ### Steps
 
@@ -61,7 +61,7 @@ Neither track has been confirmed on other simulators (ModelSim, VCS, standalone 
    - **Design panel** — paste the contents of `design.sv`, and add the actual files it includes to the project: `age_counter.sv`, `round_robin_arbiter.sv`, `fixed_priority_aging_arbiter.sv`, `mode_selector.sv`, `axi_arbiter_top.sv`, `arb_if.sv`
    - **Testbench panel** — paste the contents of `testbench.sv`, and add `arb_pkg.sv` and `tb_top.sv` to the project
 
-2. Select **Xcelium 25.03** as the simulator, and enable UVM (select a UVM version, e.g. 1.2) in the tool options.
+2. Select **Cadence Xcelium 25.03** as the simulator, and enable UVM (select a UVM version, e.g. 1.2) in the tool options.
 
 3. To run a specific UVM test, set the plusarg in the simulator run options:
    ```
@@ -173,4 +173,4 @@ Confirm `arb_if.sv` is included in the **design** panel (via `design.sv`), and t
 
 ---
 
-**Last Updated:** [Date]
+**Last Updated:** 28-08-2026
