@@ -1,0 +1,20 @@
+# Simulation artifacts
+*.wdb
+*.vcd
+*.log
+*.jou
+*.pb
+*.str
+xsim.dir/
+.Xil/
+*.sim/
+*.runs/
+
+# EDA Playground
+*.key
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
