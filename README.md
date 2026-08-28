@@ -148,5 +148,5 @@ This project is provided as-is for educational and portfolio purposes.
 
 ---
 
-**Last Updated:** [Date]
-**Status:** Complete — RTL verified in Vivado (directed), UVM verified on EDA Playground/Xcelium 25.03
+**Last Updated:** 28-08-2026
+**Status:** Complete — RTL verified in Vivado (directed), UVM verified on EDA Playground/Cadence Xcelium 25.03
