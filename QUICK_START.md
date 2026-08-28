@@ -58,7 +58,7 @@ Neither track has been confirmed on other simulators (ModelSim, VCS, standalone 
 ### Steps
 
 1. Create a new EDA Playground project with two panels:
-   - **Design panel** — paste the contents of `design.sv`, and add the actual files it includes to the project: `age_counter.sv`, `round_robin_arbiter.sv`, `fixed_priority_aging_arbiter.sv`, `mode_selector.sv`, `axi_arbiter_top.sv`, `arb_if.sv`
+   - **Design panel** — paste the contents of `design.sv`, and add the actual files it includes to the project: `age_counter.sv`, `round_robin_arbiter_uvm.sv`, `fixed_priority_aging_arbiter.sv`, `mode_selector.sv`, `axi_arbiter_top.sv`, `arb_if.sv`
    - **Testbench panel** — paste the contents of `testbench.sv`, and add `arb_pkg.sv` and `tb_top.sv` to the project
 
 2. Select **Cadence Xcelium 25.03** as the simulator, and enable UVM (select a UVM version, e.g. 1.2) in the tool options.
