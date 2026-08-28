@@ -4,8 +4,8 @@ This project has two independent verification tracks. Both were actually run —
 
 | Track | Tool | Status |
 |-------|------|--------|
-| Directed testbenches (`tb_*.sv`) | **Vivado** | Full project run, confirmed working |
-| UVM testbench (`arb_pkg.sv`, `tb_top.sv`) | **EDA Playground — Xcelium 25.03** | 4/4 tests passed, results in README |
+| Directed testbenches (`tb_*.sv`) | **Xilinx Vivado 2025.1** | Full project run, confirmed working |
+| UVM testbench (`arb_pkg.sv`, `tb_top.sv`) | **EDA Playground — Cadence Xcelium 25.03** | 4/4 tests passed, results in README |
 
 Neither track has been confirmed on other simulators (ModelSim, VCS, standalone Xcelium install, etc.) — only what's listed above has actually been run.
 
