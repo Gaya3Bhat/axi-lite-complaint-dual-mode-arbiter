@@ -4,7 +4,7 @@
 - **Project:** Design and Verification of an AXI Arbiter
 - **Version:** 2.0
 - **Status:** Final
-- **Date:** [Date]
+- **Date:** 28-08-2026
 
 ---
 
@@ -205,6 +205,6 @@ This project has two independent verification efforts. Full detail is in `VERIFI
 
 ---
 
-**Document Prepared By:** [Your Name]
+**Document Prepared By:** Gayathri R Bhat
 **Review Status:** Complete
-**Approval Date:** [Date]
+**Approval Date:** 28-08-2026
