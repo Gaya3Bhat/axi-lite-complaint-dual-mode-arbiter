@@ -160,6 +160,6 @@ Verification considered complete for this repo when:
 
 ---
 
-**Verification Plan Prepared By:** [Your Name]
-**Last Updated:** [Date]
+**Verification Plan Prepared By:** Gayathri R Bhat
+**Last Updated:** 28-08-26
 **Status:** Complete for the tools/tracks listed above
